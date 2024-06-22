@@ -12,7 +12,7 @@ const Hero = () => {
       </p>
       <div className="hero-action">
         <div className="hero-connect"> <AnchorLink className='anchor-link' href='#contact'>Connect with me</AnchorLink></div>
-        <a href="https://drive.google.com/file/d/1OTekNT-Xav8zHa7Eij7foKe2vIMtrMvz/view?usp=sharing" target="_blank" className="hero-resume">My Resume</a>
+        <a href="" target="_blank" className="hero-resume">My Resume</a>
 
       </div>
     </div>
